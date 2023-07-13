@@ -1,0 +1,29 @@
+<svg id="NEW_search_by_destination" data-name="NEW search by destination" xmlns="http://www.w3.org/2000/svg" width="335" height="163" viewBox="0 0 335 163">
+  <g id="Search_by_destination_background_chape" data-name="Search by destination background chape" transform="translate(0 89)" fill="none" stroke="#112f59" stroke-width="1">
+    <rect width="335" height="74" rx="37" stroke="none"/>
+    <rect x="0.5" y="0.5" width="334" height="73" rx="36.5" fill="none"/>
+  </g>
+  <g id="Group_237" data-name="Group 237" transform="translate(-47 -642)">
+    <g id="Group_236" data-name="Group 236">
+      <g id="Search_by_destination_background_chape-2" data-name="Search by destination background chape" transform="translate(47 642)" fill="none" stroke="#112f59" stroke-width="1">
+        <rect width="335" height="74" rx="37" stroke="none"/>
+        <rect x="0.5" y="0.5" width="334" height="73" rx="36.5" fill="none"/>
+      </g>
+      <path id="Path_53" data-name="Path 53" d="M398.488-13.485l-3.109,3.64-3.015-3.64" transform="translate(-47.213 695.485)" fill="none" stroke="#122e58" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Location_Pin_Icon" data-name="Location Pin Icon" transform="translate(-1969.267 -2320.967)">
+        <g id="Path_52" data-name="Path 52" transform="translate(2043 2987)" fill="none">
+          <path d="M9.267,0a9.267,9.267,0,0,1,9.267,9.267c0,5.118-7.285,16.666-9.267,16.666S0,14.385,0,9.267A9.267,9.267,0,0,1,9.267,0Z" stroke="none"/>
+          <path d="M 9.26701831817627 0.9999942779541016 C 4.708568572998047 0.9999942779541016 0.9999980926513672 4.708564758300781 0.9999980926513672 9.26701545715332 C 0.9999980926513672 11.25490474700928 2.360828399658203 14.85672473907471 4.55142879486084 18.66687393188477 C 5.506298065185547 20.32769393920898 6.544698715209961 21.89055442810059 7.475358009338379 23.06755447387695 C 8.501538276672363 24.36537551879883 9.061729431152344 24.77618789672852 9.26701831817627 24.8971004486084 C 9.472307205200195 24.77618789672852 10.03249835968018 24.36537551879883 11.05867767333984 23.06755447387695 C 11.98933792114258 21.89055442810059 13.02773857116699 20.32769393920898 13.98260879516602 18.66687393188477 C 16.17320823669434 14.85672473907471 17.53403854370117 11.25490474700928 17.53403854370117 9.26701545715332 C 17.53403854370117 4.708564758300781 13.82546806335449 0.9999942779541016 9.26701831817627 0.9999942779541016 M 9.26701831817627 -5.7220458984375e-06 C 14.38504791259766 -5.7220458984375e-06 18.53403854370117 4.148984909057617 18.53403854370117 9.26701545715332 C 18.53403854370117 14.38505458831787 11.24936866760254 25.93318557739258 9.26701831817627 25.93318557739258 C 7.28466796875 25.93318557739258 -1.9073486328125e-06 14.38505458831787 -1.9073486328125e-06 9.26701545715332 C -1.9073486328125e-06 4.148984909057617 4.148988723754883 -5.7220458984375e-06 9.26701831817627 -5.7220458984375e-06 Z" stroke="none" fill="#f0725c"/>
+        </g>
+        <g id="Ellipse_35" data-name="Ellipse 35" transform="translate(2047.746 2991.923)" fill="none" stroke="#f0725c" stroke-width="1">
+          <circle cx="4.35" cy="4.35" r="4.35" stroke="none"/>
+          <circle cx="4.35" cy="4.35" r="3.85" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Select_a_Destination" data-name="Select a Destination" transform="translate(115 687)" fill="#112f58" font-size="20" font-family="BuenosAires-Book, Buenos Aires"><tspan x="0" y="0">Select a Destination</tspan></text>
+  </g>
+  <text id="Check_in" data-name="Check in" transform="translate(43 135)" fill="#112f58" font-size="20" font-family="BuenosAires-Book, Buenos Aires"><tspan x="0" y="0">Check in</tspan></text>
+  <text id="Check_out" data-name="Check out" transform="translate(200 135)" fill="#112f58" font-size="20" font-family="BuenosAires-Book, Buenos Aires"><tspan x="0" y="0">Check out</tspan></text>
+  <path id="Union_1" data-name="Union 1" d="M16.77,5.59h0L10.273,0l6.5,5.59-6.5,5.59Z" transform="translate(156.5 122.729)" fill="none" stroke="#f0725c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>
